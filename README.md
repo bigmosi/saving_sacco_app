@@ -6,7 +6,7 @@ Features
 1. Authentication
 Secure login functionality for SACCO members.
 
-Members can log in with their username and password.
+Members can log in with username: user and password: password.
 
 2. Dashboard
 Financial Overview: Displays an intuitive view of the user’s financial details (e.g., active loans, current balance, etc.).
